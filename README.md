@@ -88,7 +88,7 @@
 <p align="left">
   📧 <b>Email:</b> shivamgupta86923@gmail.com<br/>
   💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/shivam-gupta-657005323">shivam-gupta-657005323</a><br/>
-  🌐 <b>Portfolio:</b> <a href="https://shivam-gupta-portfolio-seven.vercel.app/">my-portfolio-six-flax-99.vercel.app</a>
+  🌐 <b>Portfolio:</b> <a href="https://shivam-gupta-portfolio-seven.vercel.app/">My Portfolio</a>
 </p>
 
 ---
